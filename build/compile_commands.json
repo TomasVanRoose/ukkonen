@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc    -g -O2 -Wall -Wextra -Wformat=2 -Winit-self -Wfloat-equal -Wshadow -Wpointer-arith -Wcast-align -Wstrict-prototypes -Wwrite-strings -Waggregate-return -Wconversion -Werror=format-security -Werror=implicit-function-declaration   -std=gnu11 -o CMakeFiles/ukkonen.dir/src/main.c.o   -c \"/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/src/main.c\"",
+  "file": "/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/src/main.c"
+},
+{
+  "directory": "/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc    -g -O2 -Wall -Wextra -Wformat=2 -Winit-self -Wfloat-equal -Wshadow -Wpointer-arith -Wcast-align -Wstrict-prototypes -Wwrite-strings -Waggregate-return -Wconversion -Werror=format-security -Werror=implicit-function-declaration   -std=gnu11 -o CMakeFiles/ukkonen.dir/src/suffix.c.o   -c \"/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/src/suffix.c\"",
+  "file": "/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/src/suffix.c"
+}
+]

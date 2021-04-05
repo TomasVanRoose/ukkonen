@@ -1,0 +1,3 @@
+/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/build/CMakeFiles/rebuild_cache.dir
+/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/build/CMakeFiles/edit_cache.dir
+/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/build/CMakeFiles/ukkonen.dir

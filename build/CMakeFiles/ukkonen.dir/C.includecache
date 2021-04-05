@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/src/main.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+suffix.h
+/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/src/suffix.h
+
+/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/src/suffix.c
+suffix.h
+/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/src/suffix.h
+
+/Volumes/MacintoshHD/Tomas/Documents/UGent/Master2/Semester1/Algoritmen_&_Datastructuren_3/project/src/suffix.h
+stdlib.h
+-
+stdio.h
+-
+stdint.h
+-
+stdbool.h
+-
+
